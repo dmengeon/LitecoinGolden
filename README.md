@@ -1,6 +1,9 @@
 # LitecoinGolden
 
 Brief history of LTG
+
+
+
 at the end of September, we started the LitecoinGold project.
 
 a new currency no transaction fees, wallet for wallet. 100% free
